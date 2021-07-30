@@ -121,7 +121,7 @@ max-width: 100%;
         font-size: 14px;
         line-height: 1.14;
         letter-spacing: 0.02em;
-        fill: #757575;
+        color: #757575;
         text-decoration:none
       }
       
@@ -134,7 +134,7 @@ max-width: 100%;
       
       .header-contacts-link:hover,
       .header-contacts-link:focus {
-        color: var(--accent-color);
+       color: var(--accent-color);
       }
       
       .header-contacts-link:hover .header-contacts-link-icon,
@@ -331,7 +331,7 @@ width: 270px;
     height: 44px;
     border-radius: 50%;
     background-color: #FFFFFF;
-    fill: #757575;
+    fill: #afb1b8 ;
 }
 .social-list   {
     display: flex;
@@ -365,8 +365,6 @@ width: 270px;
 } 
 .clients >.logo-client {
     border: 1px solid ;
-    border-color: #757575;
-  
     width: 170px;
    height: 92px;
    margin-left: 30px;
@@ -374,13 +372,12 @@ width: 270px;
     flex-basis: calc(100%/6 - 30px);
     align-items: center;
    border-radius: 4px;
-  
+  color: #AFB1B8;
 }
-
 
 .logo-client:hover, 
 .logo-client:focus {
-    border-color:#2196F3;
+  color:#2196F3;
 } 
 
 
