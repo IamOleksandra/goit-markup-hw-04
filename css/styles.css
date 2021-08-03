@@ -286,41 +286,41 @@ padding-right: 15px;
 
 /*======== Наша команда=======*/ 
 .team-section {
-background-color: #F5F4FA;
-padding-bottom:94px;
-padding-top:94px;
-} 
-.team-member {
-font-weight: 500;
-font-size: 16px;
-line-height: 1.19;
-text-align: center;
-letter-spacing: 0.03em;
-color:var(--main-text-color);
-margin-top: 30px;
-
-}
-.team-member-profession {
-font-weight: normal;
-font-size: 16px;
-line-height: 1.19;
-text-align: center;
-letter-spacing: 0.03em;
-color: var(--secondary-text-color);
-
-}
-.team {
-display:flex;
-justify-content:space-between;
-padding: 0;
-}
-.team-item{
-background-color: #FFFFFF;
-border-radius: 4px;
-box-shadow:0px 2px 1px -1px rgba(0,0, 0,0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgb(0,0, 0, 0.12);
-width: 270px;
-
-}
+    background-color: #F5F4FA;
+    padding-bottom:94px;
+    padding-top:94px;
+    } 
+    .team-member {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.19;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color:var(--main-text-color);
+    margin-top: 30px;
+    
+    }
+    .team-member-profession {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.19;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: var(--secondary-text-color);
+    
+    }
+    .team {
+    display:flex;
+    justify-content:space-between;
+    padding-left: 0;
+    }
+    .team-item{
+    background-color: #FFFFFF;
+    border-radius: 4px;
+    box-shadow:0px 2px 1px -1px rgba(0,0, 0,0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgb(0,0, 0, 0.12);
+    width: 270px;
+    
+    }
 .social-list-icon{
     width: 20px ;
     height:20px ;
